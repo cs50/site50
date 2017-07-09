@@ -1,0 +1,9 @@
+description: > # this means to ignore newlines until "baseurl:"
+    Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard course.
+email: your-email@example.com
+exclude:
+facebook: TODO
+github: TODO
+markdown: kramdown
+title: CS50x Miami
+twitter: TODO
