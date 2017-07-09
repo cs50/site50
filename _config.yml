@@ -4,6 +4,9 @@ email: your-email@example.com
 exclude:
 facebook: TODO
 github: TODO
-markdown: kramdown
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["autolink", "hard_wrap", "no_intra_emphasis", "strikethrough", "tables", "with_toc_data"]
 title: CS50x Miami
 twitter: TODO
